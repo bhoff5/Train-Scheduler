@@ -1,0 +1,70 @@
+body,
+.card-header,
+.card-body,
+table,
+thead,
+tbody {
+    font-family: "Carme", Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    background-color: rgb(22, 22, 22);
+    color: white;
+    text-shadow: 0px 0px 2px rgba(255, 255, 255, 0.438);
+}
+
+tr:nth-of-type(even) {
+    background-color: #1c53d3a8;
+}
+
+.table td {
+    font-size: 1.2em;
+    padding: 0.2em;
+    border-top: none;
+    text-overflow: ellipsis;
+}
+
+.jumbotron {
+    background-color: rgb(22, 22, 22);
+
+}
+
+.card-header {
+    color: #d7de4e;
+    font-size: 1.8em;
+}
+
+.table thead th {
+    color: #d7de4e;
+    font-size: 1.1em;
+    border-bottom: none;
+    border-top: none;
+}
+
+.card {
+    border: none;
+}
+
+.modal-content {
+    background-color: rgb(22, 22, 22);
+}
+
+.btn {
+    background-color: #1c53d3a8;
+    border: none;
+}
+
+#hr1 {
+    border: 5px solid rgb(38, 27, 133);
+    margin: 0;
+
+}
+
+#hr2 {
+    border: 5px solid rgb(238, 68, 68);
+    margin: 0;
+
+}
+
+#hr3 {
+    border: 5px solid rgb(236, 236, 236);
+    margin: 0;
+}
